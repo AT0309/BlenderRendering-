@@ -1,1 +1,2 @@
 # BlenderRendering-
+Blemderでレンダリングしたものを保管
